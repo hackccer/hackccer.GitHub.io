@@ -1,12 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "Web渗透之路 " 
+description: "The Web Application Hacker's Handbook" 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
-
+非常喜欢这本书，但是无奈的是翻译的太烂的，于是想自己翻译看看，顺便分享一下。
 
 
 
