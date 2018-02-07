@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "Web渗透之路 " 
 header-img: "img/green.jpg"
 ---
 
